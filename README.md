@@ -1,6 +1,6 @@
 # Java
 Java projects
-
+E-voting-system
 Democratic nations perform elections where people have a say on the kind of government that will safeguard all their interests. Therefore, the elected leaders have a responsibility of ensuring that the country is run in the most efficient way which brings about prosperity. Therefore, the election is typically conducted since many people cannot have direct control of the affairs hence they elect their representatives to conduct such problems. Internet voting has been utilized for national-level elections in only a few countries, it is a voting mechanism that is increasingly being explored as a means to allow access to the election process for voters who may otherwise find it difficult to go to their polling location on Election Day. It will increase the voter count as many of the voters could not be present at the voting site. It will make the voting process more convenient and reduce the effort and labor work required at the voting site. The primary purpose would just be to manage and update the online voting site.
 Internet voting, however, presents a number of technological challenges focused on security, privacy, and secrecy issues, as well as challenges for stakeholder involvement in and observation of the process.
 Detailed Information:
